@@ -30,6 +30,7 @@
   margin-bottom: 4px;
   background-color: rgb(163, 209, 198);
   border-radius: 10px;
+  height: 75px;
 }
 .footer-1 {
   display: flex;
